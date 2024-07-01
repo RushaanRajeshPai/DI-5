@@ -1,0 +1,32 @@
+.workmain{
+    display: block;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.wrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vh;
+    margin-top: 50px;
+}
+
+#wh1{
+    font-size: 40px;
+    color: #0F0B33;
+}
+
+#wh3{
+    color: #0F0B33;
+}
+
+#viewbtn{
+    background-color: #EE9905;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 40px;
+    width: 120px;
+    margin-top: 40px;
+}

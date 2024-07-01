@@ -1,0 +1,25 @@
+.heromain{
+    background-color: #0F0B33;
+    color: white;
+    display: block;
+    margin-top: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 360px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#herop{
+    padding-top: 40px;
+}
+
+#explorebtn{
+    margin-top: 40px;
+    background-color: #EE9905;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid #0F0B33;
+}

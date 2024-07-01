@@ -1,0 +1,37 @@
+.headermain{
+    margin-top: 30px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+}
+
+.headertags{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vh;
+}
+
+#logo{
+    margin-top: 15px;
+}
+
+#contactbtn{
+    background-color: #EE9905;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid white;
+    width: 100px;
+}
+
+#home:hover,#services:hover,#about:hover,#work:hover,#testimonial:hover{
+    cursor: pointer;
+    color: #EE9905;
+    font-weight: 500;
+}
+
+#contactbtn:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
